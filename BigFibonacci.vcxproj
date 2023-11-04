@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BigFibonacci.cpp" />
+    <ClCompile Include="Fibonacci.c" />
+    <ClCompile Include="Testcases\testcase04.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fibonacci.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Outputs\output01.txt" />
+    <Text Include="Outputs\output02.txt" />
+    <Text Include="Outputs\output03.txt" />
+    <Text Include="Outputs\output04.txt" />
+    <Text Include="Outputs\output05.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
