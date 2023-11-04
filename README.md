@@ -7,8 +7,7 @@ Please, do not copy this code to complete assignments. Logical observation is we
 Clone the repository into your preferred development environment.
 The code can be run from the command line, but I opted for Visual Studio 2022 (MSVC Compiler)
 
-With Visual Studio:
-Open the .sln file. In the source files, only Fibonacci.c and testcase04.c are included.
+With Visual Studio, open the .sln file. In the source files, only Fibonacci.c and testcase04.c are included.
 Run the Local Windows Debugger to execute the program for testcase04.
 
 The other test cases in the Testcases folder will need to be included/excluded as desired due to the project requirements.
